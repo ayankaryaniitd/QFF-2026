@@ -23,6 +23,7 @@ Layout, routing and the protection strategy remain your choice.
 | `requirements.txt` | the Python packages it needs |
 | `getting_started.ipynb` | walkthrough: load the models, draw the graphs, compile a Bell circuit |
 | `README.md` | this file |
+| `Solution.ipynb` | Solution to the PS|
 
 ## Setup
 
