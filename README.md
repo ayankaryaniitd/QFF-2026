@@ -8,4 +8,4 @@
 | `README.md` | this file |
 | `Solution.ipynb` | Solution to the PS|
 | `Report.docx` | The report explaining my observations|
-|Video Explanation and Observation.mp4| My video explanation of the code and my observations|
+| `Video Explanation and Observation.mp4` | My video explanation of the code and my observations|
